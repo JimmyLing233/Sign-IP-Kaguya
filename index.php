@@ -20,7 +20,7 @@ $blue = ImageColorAllocate($im, 0,0,225);//蓝色
 $org = ImageColorAllocate($im, 255,69,0);//不知道是什么橘色
 $green = ImageColorAllocate($im, 0,225,0);//绿色
 $violet = ImageColorAllocate($im, 168,0,211);//暗紫色
-$font = '/fonts/ali88Regular.ttf';//加载字体
+$font = '/ali88Regular.ttf';//加载字体
 //输出
 imagettftext($im, 16, 0, 10, 40, $blue, $font,'来自'.$country.'-'.$region.'的朋友,欢迎您');
 imagettftext($im, 16, 0, 10, 72, $org, $font, '今天是'.date('Y年n月j日').' 星期'.$weekarray[date("w")]);//当前时间添加到图片
