@@ -29,4 +29,4 @@ imagettftext($im, 16, 0, 10, 140, $green, $font,'您使用的是'.$os.'操作系
 imagettftext($im, 16, 0, 10, 175, $violet, $font,'您使用的是'.$bro.'浏览器');
 ImageGif($im);
 ImageDestroy($im);
-
+?>
