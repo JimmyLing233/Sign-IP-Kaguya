@@ -8,7 +8,7 @@ $weekarray=array("日","一","二","三","四","五","六"); //先定义一个�
 //$get=$_GET["s"];
 //$get=base64_decode(str_replace(" ","+",$get));
 //$wangzhi=$_SERVER['HTTP_REFERER'];这里获取当前网址
-$url='https://ip-moe.zerodream.net/?ip=114.114.114.114'; //更改为Moe IP 数据库，感谢
+$url='https://ip-moe.zerodream.net/?ip='.$ip; //更改为Moe IP 数据库，感谢
 $data = get_curl($url);//这里从api获取ip数据
 $data = json_decode($data, true);//解码json
 $country = $data['country']; //匹配country
