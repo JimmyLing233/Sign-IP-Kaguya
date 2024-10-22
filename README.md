@@ -3,6 +3,9 @@
 原代码地址：https://github.com/xhboke/IP
 <h2>演示效果</h2>
 <img src="https://sign.lhcloud.com.cn/" alt="" width="550" height="250" class="alignnone size-full wp-image-862" />
+<h2>运行环境</h2>
+* PHP >= 8
+* GD扩展支持
 <h2>原帖地址</h2>
 https://www.xhboke.com/858.html
 <h2>提示</h2>
