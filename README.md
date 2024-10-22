@@ -2,8 +2,7 @@
 ## 说在前面
 原代码地址：https://github.com/xhboke/IP
 ## 演示效果
-<img src="https://sign.lhcloud.com.cn/" alt="" width="550" height="250" class="alignnone size-full wp-image-862" />
-
+![演示图片](./IP-test.png)
 ## 运行环境
 * PHP >= 8
 * GD扩展支持
