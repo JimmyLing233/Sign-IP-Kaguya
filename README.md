@@ -1,13 +1,14 @@
 # IP签名档源码
-<h2>说在前面</h2>
+## 说在前面
 原代码地址：https://github.com/xhboke/IP
-<h2>演示效果</h2>
+## 演示效果
 <img src="https://sign.lhcloud.com.cn/" alt="" width="550" height="250" class="alignnone size-full wp-image-862" />
-<h2>运行环境</h2>
+
+## 运行环境
 * PHP >= 8
 * GD扩展支持
-<h2>原帖地址</h2>
+## 原帖地址
 https://www.xhboke.com/858.html
-<h2>提示</h2>
-此IP签名档无法正常显示国外IP归属地<br/>
-字体：阿里巴巴普惠体(<a href="https://alibabafont.taobao.com/"> 阿里巴巴字体素材平台</a>)
+## 致谢
+* 字体：阿里巴巴普惠体(<a href="https://alibabafont.taobao.com/">阿里巴巴字体素材平台</a>)
+* IP库：[Moe IP](https://ip-moe.zerodream.net/)查询库
